@@ -2,6 +2,8 @@
 
 ## Production-Ready AI Assistant for Aviation Telecommunications Professionals | Built by Industry Experience for Real-World Operations
 
+![A description of the Gemini generated image](Gemini%20Generated%20Image.jpeg)
+
 ## Content
 ### Project Description
 🎯 **Project Origin & Purpose**
