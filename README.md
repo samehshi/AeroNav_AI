@@ -2,16 +2,6 @@
 
 ## Production-Ready AI Assistant for Aviation Telecommunications Professionals | Built by Industry Experience for Real-World Operations
 
-### Card and Thumbnail Image
-Suggested Image Description:
-Professional aviation control room aesthetic with AFTN message terminal, global airway map overlay, and AI circuit patterns. Navy blue (#003366) and signal green (#00FF00) color scheme representing operational displays.
-Image Elements:
-
-📡 AFTN/AMHS message terminal
-🗺️ Aeronautical chart background
-🤖 AI neural network overlay
-Colors: Aviation navy blue, terminal green, white
-
 ## Content
 ### Project Description
 🎯 **Project Origin & Purpose**
