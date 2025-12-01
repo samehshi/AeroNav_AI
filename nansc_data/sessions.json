@@ -1,0 +1,43 @@
+{
+  "web_user": {
+    "timestamp": "2025-12-01T04:03:20.102436",
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          "Where is OJAA?"
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          "OJAA is Queen Alia Airport in Jordan."
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          "what is amhs "
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          "AMHS stands for Aeronautical Message Handling System. It's a next-generation messaging system for the aviation industry, designed to replace the legacy AFTN (Aeronautical Fixed Telecommunication Network). AMHS is based on X.400 standards and offers enhanced capabilities like increased message size, support for various character sets, and improved security."
+        ]
+      }
+    ]
+  }
+}
